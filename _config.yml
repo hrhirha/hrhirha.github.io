@@ -28,8 +28,8 @@ url: "https://hrhirha.github.io"
 github:
   username: hrhirha # change to your GitHub username
 
-twitter:
-  username: hrhirha # change to your Twitter username
+# twitter:
+#   username: hrhirha # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: rhirha.hamza@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/hrhirha # change to your Twitter homepage
+    # - https://twitter.com/hrhirha # change to your Twitter homepage
     - https://github.com/hrhirha # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
